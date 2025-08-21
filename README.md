@@ -1,0 +1,1 @@
+I design a web page that serve as a simple home page for a company that help the user to contect.this web page is created using onle HTML to creat a layout of home page. Project Overviwe the ecommerce website allows users to: 1.feedback 2.contect to company Features only simple web page created using HTML. LINK: https://lucky-otter-c31923.netlify.app/ THANKS FOR EXPLORING
